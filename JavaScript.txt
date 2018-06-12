@@ -1,0 +1,79 @@
+JAVASCRIPT
+-------------------
+
+it has nothing to do with java. it is inspired by the structure of Java language.
+
+similar name for marketing reasons.
+
+primarily client side.
+
+what is scripting language?
+ A language that is used to communicate with the existing application
+
+OBJECT
+
+An object is a collection of propeties, which are described in the form of key/value pairs. 
+We can use object to model "things" using code.
+
+When an object has a property with a function as the value, it is referred to as a method of that object.
+
+Creating and defining an object at same time is known as instance of an object. (Object Literal)
+
+Javascript is an object Oriented Language.
+
+Object Constructor: can define a templete fro an object prototype.
+From a prototype we can create many object as needed.
+
+Three different types of object:
+
+HOST Object: Are objects defined by the environment in which your code is run. e.f Window, Console, Document etc.
+
+CORE Object: Are objects defined by and build into the javascript language itself. e.g. Math, Object, String, Boolean, Array, Date, Number.
+
+OBJECTD DEFINED BY THE CODE AUTHOR
+
+Javascript library: Angular Js, JQuery
+
+
+PROTOTYPE
+----------------
+
+It is an encapsulation of of properties that an object can links to.
+Javascript is du
+
+1. HTML to define the content of web pages
+
+2. CSS to specify the layout of web pages
+
+3. JavaScript to program the behavior of web pages
+
+JavaScript is the default scripting language in HTML.
+
+Accessing a function without () will return the function definition instead of the function result:
+
+"The W3C Document Object Model(DOM) is a platform and language-neutral interface that allows programs and 
+scripts to dynamically access and update the content, structure, and style of a document."
+
+The HTML DOM is a standard for how to get, change, add, or delete HTML elements.
+
+document.write() can be used to write directly to the HTML output stream.
+
+Never use document.write() after the document is loaded. It will overwrite the document.
+
+Arrays with named indexes are called associative arrays (or hashes).
+
+
+AJAX
+----------
+AJAX is not a programming language.
+
+AJAX is a technique for accessing web servers from a web page.
+
+AJAX stands for Asynchronous JavaScript And XML.
+
+AJAX just uses a combination of:
+A browser built-in XMLHttpRequest object (to request data from a web server)
+JavaScript and HTML DOM (to display or use the data)
+
+
+
